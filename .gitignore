@@ -1,0 +1,15 @@
+# Build outputs
+build/
+dist/
+*.o
+*.bin
+*.iso
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
